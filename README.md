@@ -31,4 +31,4 @@ The homework will be announced while we progress through the course.
 Furthermore, you will give an oral presentation about a related computer vision work.
 The topic of your presentation is free to choose (as long as it is Computer Vision related). 
 Focus on a Computer-Vision task/algorithm, understand its details, and talk about it. 
-IMPORTANT: Pick a fun topic that interests you! You can find further details [here](PROJECT.md).
+IMPORTANT: Pick a fun topic that interests you! You can find further details [here](RW.md).
