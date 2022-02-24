@@ -1,7 +1,7 @@
-# CV Presentation
-The topic of your presentation is free to choose, but it must be Computer Vision related. Focus on a Computer-Vision algorithm and understand its details. Look at the intro slides for some inspiration! 
+# CV Related-Work Research
+The topic of your research review is free to choose, but it must be Computer Vision related. Focus on a Computer-Vision algorithm and understand its details. Look at the intro slides for some inspiration! 
 
-The deliverables for the presentations are the announcements of your idea and your team, two presentations, where one covers related work and the other covers your final results, and a project report (and supplementary files if needed). 
+The deliverables for the research are the announcements of your idea and your team, one presentation, and a project report (plus supplementary files like code or data). 
 
 ### Presentations
 For presentations you will have a maximum of 10 minutes for your talk plus 5 minutes for questions. Your goal is to present something interesting to your fellow students, so they learn something from your talk. It is okay if only one team member presents. 
@@ -10,10 +10,10 @@ For presentations you will have a maximum of 10 minutes for your talk plus 5 min
 Announce your team and the topic you want to work on via Elearning. If you submit early and want early feedback, please notify me via mail.
 In the announcement you should be able to answer the following questions: 
 - Who is on your team (names of one or two student(s) )?
-- What is the problem/question/topic that you will be investigating? 
-- Did you find existing methods, already? 
+- What is the problem/question/topic that you will be reviewing? 
+- Did you find existing and ecxiting literature, already? 
 
-I will notify you if the project topic is okay and what grade to expect if you succeed. 
+I will notify you if the project topic is okay and might give you some hints. 
 Note that for the announcement you already need to look at some related work, which will help you for the next part.
 
 ## Part 1 - Related Work Presentation
@@ -26,8 +26,8 @@ During the presentation you should answer the following major questions:
 - What are the existing methods? 
 
 ## Final Report
-Summarize your findings of (Part 1) as a chapter in the final report. 
-The report also contains the solution to your homework in the other chapters. 
+Summarize your literature research (Part 1) as a chapter in the final report. 
+The report also contains the solution to your homework in additional chapters. 
 Reports should be submitted by each team member. If there is an unequal distribution of contributions within your team describe it in the report (e.g., student A did 60% of the work while B only did 40%), and I will consider it for grading. 
 
 Keep the sections in your report short and to the point, especially the homework descriptions. For example, a small result described and evaluated well will earn more credit than a long text where no aspect was done well. Be accurate in describing your solutions. Make sure to add references to all related work you reviewed or used (especially in the related work chapter). 
