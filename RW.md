@@ -3,7 +3,7 @@ The topic of your research review is free to choose, but it must be Computer Vis
 
 The deliverables for the research are the announcements of your idea and your team, one presentation, and a project report (plus supplementary files like code or data). 
 
-### Presentations
+### Presentation
 For presentations you will have a maximum of 10 minutes for your talk plus 5 minutes for questions. Your goal is to present something interesting to your fellow students, so they learn something from your talk. It is okay if only one team member presents. 
 
 ## Part 0 - Announcement
