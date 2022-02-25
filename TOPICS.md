@@ -44,7 +44,7 @@ With recent advances in Computer Vision, it is now possible to track people in a
 ### Links:
 - [Metrabs on Github (including videos)](https://github.com/isarandi/metrabs)
 - [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
-- [Kinect Body Tracking](https://docs.microsoft.com/en-us/azure/kinect-dk/)body-sdk-download
+- [Kinect Body Tracking](https://docs.microsoft.com/en-us/azure/kinect-dk/body-sdk-download)
 
 ---
 
