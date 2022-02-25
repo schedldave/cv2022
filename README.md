@@ -24,11 +24,12 @@ Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/
 * [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 * If you know Matlab, you can find the differences between Matlab and Python [here](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
-## Course Homework
-This course will be graded based on your performance in the course homeworks. 
+## Course Grading
+This course will be graded based on your performance in the **course homeworks**. 
 The homework will be announced while we progress through the course.
 
-Furthermore, you will give an oral presentation about a related computer vision work.
-The topic of your presentation is free to choose (as long as it is Computer Vision related). 
-Focus on a Computer-Vision task/algorithm, understand its details, and talk about it. 
-IMPORTANT: Pick a fun topic that interests you! You can find further details [here](../images/RW.md) and an inspiration for topics [here](../images/TOPICS.md).
+Furthermore, you will give an **oral presentation** about a related computer vision field.
+The topic of your presentation is free to choose (as long as it is CV related). 
+Focus on a Computer-Vision task/algorithm (a scientific work), understand its details (advantages, limitations, competition, ...), and explain it to your fellow students. 
+
+IMPORTANT: Pick a fun topic that **interests you**! You can find further details [here](../images/RW.md) and an inspiration for topics [here](../images/TOPICS.md).
