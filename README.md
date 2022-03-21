@@ -13,6 +13,9 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 9. [Stereo](07_Stereo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
 --->
 
+## Homework Tasks:
+1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
+
 ## Python Setup
 
 Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python and an editor (I recommend Visual Studio Code).
