@@ -7,10 +7,10 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 1. [Python for Computer Vision](./01_PythonTutorial.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/01_PythonTutorial.ipynb)
 2. [Introduction to OpenCV](./02_OpenCV.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/02_OpenCV.ipynb)
 3. [Filters](./03_Filters.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/03_Filters.ipynb)
-4. [Edges and Lines](./04_Edges.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
-<!--- 7. [Corners and Featuers](05_Features.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
-8. [Alignment](06_Alignment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
-9. [Stereo](07_Stereo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
+4. [Edges and Lines](./04_Edges.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
+<!--- 7. [Corners and Featuers](05_Features.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
+8. [Alignment](06_Alignment.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
+9. [Stereo](07_Stereo.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
 --->
 
 ## Homework Tasks:
