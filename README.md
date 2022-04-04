@@ -17,7 +17,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
 2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW02_Circles.ipynb)
 
-## Python Setup
+## Python Setup:
 
 Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python and an editor (I recommend Visual Studio Code).
 
@@ -33,9 +33,9 @@ Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/
 * [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 * If you know Matlab, you can find the differences between Matlab and Python [here](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
-## Course Grading
+## Course Grading:
 This course will be graded based on your performance in the **course homeworks**. 
-The homework will be announced while we progress through the course.
+The [homework tasks will be announced](#Homework-Tasks) while we progress through the course.
 
 Furthermore, you will give an **oral presentation** about a related computer vision field.
 The topic of your presentation is free to choose (as long as it is CV related). 
