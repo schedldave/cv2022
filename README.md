@@ -7,16 +7,17 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 1. [Python for Computer Vision](./01_PythonTutorial.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/01_PythonTutorial.ipynb)
 2. [Introduction to OpenCV](./02_OpenCV.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/02_OpenCV.ipynb)
 3. [Filters](./03_Filters.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/03_Filters.ipynb)
-4. [Edges and Lines](./04_Edges.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
-<!--- 7. [Corners and Featuers](05_Features.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
-8. [Alignment](06_Alignment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
-9. [Stereo](07_Stereo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
+4. [Edges and Lines](./04_Edges.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
+5. [Corners and Featuers](05_Features.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
+<!--- 8. [Alignment](06_Alignment.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
+9. [Stereo](07_Stereo.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
 --->
 
 ## Homework Tasks:
 1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
+2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW02_Circles.ipynb)
 
-## Python Setup
+## Python Setup:
 
 Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python and an editor (I recommend Visual Studio Code).
 
@@ -32,9 +33,9 @@ Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/
 * [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 * If you know Matlab, you can find the differences between Matlab and Python [here](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
-## Course Grading
+## Course Grading:
 This course will be graded based on your performance in the **course homeworks**. 
-The homework will be announced while we progress through the course.
+The [homework tasks will be announced](#Homework-Tasks) while we progress through the course.
 
 Furthermore, you will give an **oral presentation** about a related computer vision field.
 The topic of your presentation is free to choose (as long as it is CV related). 
