@@ -10,8 +10,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 4. [Edges and Lines](./04_Edges.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
 5. [Corners and Featuers](05_Features.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
 6. [Alignment](06_Alignment.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
-<!--- 7. [Stereo](07_Stereo.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
---->
+7. [Stereo](07_Stereo.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
 
 ## Homework Tasks:
 1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
