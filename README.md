@@ -17,6 +17,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
 2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW02_Circles.ipynb)
 3. [Camera Calibration](./HW03_Calibration.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW03_Calibration.ipynb)
+4. [Autoencoder Compression](./HW04_Autoencoder.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW04_Autoencoder.ipynb)
 
 ## Python Setup:
 
